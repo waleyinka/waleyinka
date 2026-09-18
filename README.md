@@ -107,6 +107,25 @@ Each day is a learning-log post, not just an exercise.
 
 ---
 
+### 📊 Git History & Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamomowale&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Omowale's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamomowale&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamomowale&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/iamomowale/iamomowale/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 🤝 Let's Connect
 
 I write about the move from product design to data engineering, and post daily learning logs along the way. If you're on a similar path, hiring for one, or just want to talk pipelines — reach out.
